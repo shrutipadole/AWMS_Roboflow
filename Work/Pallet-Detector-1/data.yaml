@@ -1,0 +1,14 @@
+names:
+- '1'
+- Wooden-Pallets
+- pallet
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: pallet-detector-2a8o6
+  url: https://universe.roboflow.com/arapl/pallet-detector-2a8o6/dataset/1
+  version: 1
+  workspace: arapl
+test: ../test/images
+train: Pallet-Detector-1/train/images
+val: Pallet-Detector-1/valid/images
